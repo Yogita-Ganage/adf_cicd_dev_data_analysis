@@ -1,0 +1,9 @@
+{
+	"name": "adf-orders-dev-uksouth-yo",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2fbf005c-1712-4407-ba85-ddcefa4c2fdc",
+		"tenantId": "bb3c97ff-11b5-4b37-92cf-1897b2d8766b"
+	}
+}
