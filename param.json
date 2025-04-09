@@ -1,0 +1,17 @@
+[
+    {
+        "p_rel_url" : "Yogita-Ganage/Resource/refs/heads/main/athletes.csv",
+        "p_folder" : "athletes",
+        "p_file" : "athletes.parquet"
+    },
+    {
+        "p_rel_url" : "Yogita-Ganage/Resource/refs/heads/main/coaches.csv",
+        "p_folder" : "coaches",
+        "p_file" : "coaches.parquet"
+    },
+    {
+        "p_rel_url" : "Yogita-Ganage/Resource/refs/heads/main/events.csv",
+        "p_folder" : "events",
+        "p_file" : "events.parquet"
+    }
+]
